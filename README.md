@@ -24,10 +24,10 @@ In the report output, you must see the DB View list.
 ## Screenshots
 
 Selection Fields
-![Selection Fields](../images/selectedFields.png?raw=true)
+![Selection Fields](../master/images/selectedFields.png?raw=true)
 
 Selection Fields List
-![Selection Fields List](../images/selectedFieldsList.png?raw=true)
+![Selection Fields List](../master/images/selectedFieldsList.png?raw=true)
 
 Report Output
-![Report Output](../images/reportOutput.png?raw=true)
+![Report Output](../master/images/reportOutput.png?raw=true)
